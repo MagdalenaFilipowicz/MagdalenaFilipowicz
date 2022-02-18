@@ -1,6 +1,6 @@
 - Hi, I’m Magdalena 🍒 
 - I am an Aspiring Software Developer
-- Currently learning Python and Solidity. 
+- Currently learning Python and Solidity
 - I am interested in Blockchain technology applications
 
 <!---
